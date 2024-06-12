@@ -1,0 +1,6 @@
+Agregar autoincrement en subject, secretaries, users, teachers, students
+
+Paterno y Materno son obligatorios?
+
+Estudiante podra deshabilitarse
+
